@@ -10,9 +10,9 @@
 
 
 #define DEFAULT 0
-#define navnum_layer   1
-#define symbol_layer   2
-#define game_layer   3
+#define navnum_layer   2
+#define symbol_layer   3
+#define game_layer   1
 
 / {
 	keymap {
@@ -124,7 +124,7 @@
 	&kp TAB		&kp Q		&kp W		&kp E		&kp R							&kp Y		&kp U		&kp I		&kp O		&kp P
 	&kp LSHFT	&kp A		&kp S		&kp D		&kp F							&kp H		&kp J		&kp K		&kp L		&kp ENTER
 	&kp LCTRL	&kp Z		&kp X		&kp C		&kp V							&kp N		&kp M		&kp COMMA	&kp DOT		&kp FSLH
-				&kp F6	&kp G		&kp SPACE  	&kp B		&kp T		&kp DEL	&mo navnum_layer &kp BSPC &mo symbol_layer	&tog game_layer
+				&kp F6	&kp G		&kp SPACE  	&kp B		&kp T		&kp ESC	&mo navnum_layer &kp BSPC &mo symbol_layer	&tog game_layer
 			>;
 
 			sensor-bindings = <
