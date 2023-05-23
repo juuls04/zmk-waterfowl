@@ -10,9 +10,9 @@
 
 
 #define DEFAULT 0
-#define navnum_layer   2
-#define symbol_layer   3
-#define game_layer   1
+#define navnum_layer   1
+#define symbol_layer   2
+#define game_layer   3
 
 / {
 	keymap {
