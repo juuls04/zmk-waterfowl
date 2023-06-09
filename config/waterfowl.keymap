@@ -62,7 +62,7 @@
  *          `-----'   `--------------------'            `--------------------'   `-----'
  */
 			bindings = <
-	&kp KP_N7	&kp KP_N8	&kp KP_N9	&kp KP_PLUS	&kp KP_MINUS				   &kp KP_EQUAL &kp LBKT	&kp RBKT	&kp C_NEXT	&kp C_PREVIOUS
+	&kp KP_N7	&kp KP_N8	&kp KP_N9	&kp KP_PLUS	&kp KP_MINUS				   &kp EQUAL &kp LBKT	&kp RBKT	&kp C_NEXT	&kp C_PREVIOUS
 	&kp KP_N4	&kp KP_N5	&kp KP_N6 &kp KP_MULTIPLY &kp KP_DIVIDE				  	&kp BSLH	&kp LBRC	&kp RBRC	&kp SEMI	&kp SQT
 	&kp KP_N1	&kp KP_N2	&kp KP_N3	&kp CARET	&kp C_PP						&kp MINUS	&kp LPAR	&kp RPAR	&kp C_BRI_UP &kp C_BRI_DN
 				&kp CAPS	&kp KP_N0	&kp SPACE  &kp LCTRL	&kp ESC		&kp DEL	&mo navnum_layer &kp BSPC &mo symbol_layer	&tog game_layer
