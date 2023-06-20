@@ -43,8 +43,8 @@
 
 			sensor-bindings = <
 				&inc_dec_kp C_VOL_UP C_VOL_DN
-				&inc_dec_kp LEFT RIGHT
-				&inc_dec_kp UP DOWN
+				&inc_dec_kp RIGHT LEFT
+				&inc_dec_kp DOWN UP
 				&inc_dec_kp TAB RS(TAB)
 			>;
 		};
@@ -73,8 +73,8 @@
 
 			sensor-bindings = <
 				&inc_dec_kp N1 N2
-				&inc_dec_kp LEFT RIGHT
-				&inc_dec_kp UP DOWN
+				&inc_dec_kp RIGHT LEFT
+				&inc_dec_kp DOWN UP
 				&inc_dec_kp TAB RS(TAB)
 			>;
 		};
@@ -101,8 +101,8 @@
 
 			sensor-bindings = <
 				&inc_dec_kp C_VOL_UP C_VOL_DN
-				&inc_dec_kp LEFT RIGHT
-				&inc_dec_kp UP DOWN
+				&inc_dec_kp RIGHT LEFT
+				&inc_dec_kp DOWN UP
 				&inc_dec_kp TAB RS(TAB)
 			>;
 		};
@@ -130,8 +130,8 @@
 
 			sensor-bindings = <
 				&inc_dec_kp C_VOL_UP C_VOL_DN
-				&inc_dec_kp LEFT RIGHT
-				&inc_dec_kp UP DOWN
+				&inc_dec_kp RIGHT LEFT
+				&inc_dec_kp DOWN UP
 				&inc_dec_kp TAB RS(TAB)
 			>;
 		};
@@ -159,8 +159,8 @@
 
 			sensor-bindings = <
 				&inc_dec_kp C_VOL_UP C_VOL_DN
-				&inc_dec_kp LEFT RIGHT
-				&inc_dec_kp UP DOWN
+				&inc_dec_kp RIGHT LEFT
+				&inc_dec_kp DOWN UP
 				&inc_dec_kp TAB RS(TAB)
 			>;
 		};
